@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import OnLeaveIntent from './index'
 
 describe('OnLeaveIntent', () => {
